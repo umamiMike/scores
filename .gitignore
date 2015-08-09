@@ -1,1 +1,4 @@
-!*.mscz
+*.wav
+*.mscz,
+*.mp3
+*.pdf
